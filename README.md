@@ -39,3 +39,9 @@ Suppose you have a folder named `my_python_scripts` containing a Python script n
 ./run.sh my_python_scripts
 
 ```
+
+example to run project from day 1:
+
+```bash
+./run.sh 1
+```
